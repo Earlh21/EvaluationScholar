@@ -1,4 +1,4 @@
-## Team 6 Project
+## Evaluation Scholar
 
 ### Building
 
